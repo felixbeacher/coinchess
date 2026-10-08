@@ -32,4 +32,4 @@ There is no computer opponent or online multiplayer. Refreshing or closing the p
 
 ## Copyright
 
-© 2006 Felix Beacher. All rights reserved.
+© 2026 Felix Beacher. All rights reserved.
